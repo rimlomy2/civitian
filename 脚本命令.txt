@@ -1,0 +1,103 @@
+进入脚本运行位置
+screen -r Dawn
+screen -r Bless_Linux
+screen -r bless_Linux
+screen -r Teneo-BOT
+screen -r GoKiteai_Linux
+screen -r kite
+screen -r Billions_Linux
+screen -r Pharos_Linux
+screen -r Pharos
+screen -r Klok_Linux
+screen -r Warden_Linux
+screen -r Uomi_Linux
+screen -r Aprio_Linux
+screen -r nexus
+screen -r datagram
+screen -r irys
+screen -r Nitrograph
+screen -r gopher
+screen -r Creek
+screen -r ARC
+screen -r iopn
+screen -r rayls
+
+
+screen -S irys
+
+python3 main.py
+npm install
+apt install npm
+
+curl https://cli.nexus.xyz/ | sh
+source ~/.bashrc
+nexus-network start --node-id <your-node-id>
+
+
+多窗
+cp -r Aveum_Linux Aveum_Linux2
+运行
+python bot.py
+或者
+python3 bot.py
+
+tabizoo执行
+python bot-proxy.py
+
+git pull
+screen -S blum -X quit
+screen -S  -X quit
+rm -rf
+screen -D -r 
+
+virtualenv venv
+source venv/bin/activate
+source ~/.profile
+pip install -r requirements.txt
+npm install lodash
+npm install user-agents axios colors p-limit https-proxy-agent socks-proxy-agent crypto-js ws uuid xlsx readline-sync moment lodash
+pip install -r requirements.txt
+pip install curl_cffi
+CHILL用npm i user-agents axios colors p-limit https-proxy-agent socks-proxy-agent crypto-js ws uuid xlsx
+
+git clone https://github.com/zyz-airdrops/tabizoo-claimer.git
+git clone https://github.com/cucumber-pickle/BlumCum.git
+git clone https://github.com/MeoMunDep/Hi-Pin---Pin-AI
+git clone https://github.com/CryptoSatyam/MidasRWA-AutoBot
+git clone https://github.com/MeoMunDep/Taker-Protocol
+
+git clone https://github.com/ziqing888/Bless-Bot.git
+git clone https://github.com/xmandirigma/mygate-b0t
+git clone https://github.com/recitativonika/openledger-bot.git
+git clone https://github.com/vonssy/Teneo-BOT
+git clone https://github.com/vonssy/NaorisNode-BOT
+git clone https://github.com/amumuku/openloop
+git clone https://github.com/MeoMunDep/Blockmesh
+
+chmod +x *
+378059454@qq.com
+B2383CBAAE
+16a4ea69-1777-4075-bafc-4350e47fcd06
+建文件夹
+mkdir tgbot
+
+
+1、克隆：git clone https://github.com/Jaammerr/The-Dawn-Bot.git
+
+2、进入安装虚拟环境：cd The-Dawn-Bot && virtualenv venv && source venv/bin/activate
+
+3、安装依赖：pip install -r requirements.txt
+
+4、设置验证码的方式：vim config/settings.yaml，只需要修改two_captcha_api_key或者anti_captcha_api_key其中一个，
+然后选captcha_module
+
+5、设置要跑的账号：vim /config/data/farm.txt，例子如下：
+loomiswob17@gmail.com:74222
+faullrer769@gmail.com:741222
+
+6、设置代理：vim /config/data/proxies.txt，例子如下：
+84.13.100.188:6765:vxvaqkpp:16q919v11
+45.41.81.24:6084:vxvaqkpp:16q919v11
+
+7、跑脚本：python run.py
+先把所有任务完成，再跑farm，register跳过
